@@ -1,34 +1,107 @@
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in" />
+</p>
 
-<p align="center"><img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in"></p>
-<p>
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+My+name+is+Jasmina" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=Hi+👋🏻,+I'm+Abdulmajid+Yunusov;Python+Backend+Developer;Building+APIs,+Bots,+and+Scalable+Systems" />
   </a>
 </p>
-<p>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+passionate+Backend+Developer" alt="Typing SVG" />
-</a>
+
+---
+
+## 👨‍💻 About Me
+
+I’m a **Python Backend Developer** focused on building **scalable, maintainable, and production-ready systems**.
+
+- Strong experience with **Django, Django REST Framework, FastAPI**
+- Build **Telegram bots**, REST APIs, and background processing systems
+- Work extensively with **SQL databases, Redis, Celery, Docker**
+- Prefer clean architecture, explicit logic, and predictable behavior
+- Enjoy solving non-trivial problems and optimizing real-world systems
+
+I’ve delivered custom solutions for different business needs and actively maintain personal projects that evolve over time.
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="600" />
 </p>
 
+---
 
+## 🌐 Contacts & Profiles
 
-## 🌐 Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://goldendevuz.t.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmajid-yunusov)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/goldendevuz)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunusovabdulmajid@gmail.com)
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://dilmuradovnas.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasmina-ochildiyeva) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/itsjasmin)  
-<!--[![Gmail](https://img.shields.io/badge/ochildiyevajasmina@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:ochildiyevajasmina@gmail.com) -->
-<p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsjasminn&label=Profile%20views&color=0e75b6&style=flat" alt="itsjasminn" /> </p>
-<h1 align="center"><img src="https://profile-readme-generator.com/assets/snake.svg"</h1>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=goldendevuz&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+---
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/docker%20compose-%23316197.svg?style=for-the-badge&logo=docker&logoColor=white) ![Celery](https://img.shields.io/badge/celery-%2348B685.svg?style=for-the-badge&logo=celery&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Telegram Bot](https://img.shields.io/badge/telegram-bot-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white) [![Aiogram](https://img.shields.io/badge/aiogram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/aiogram/aiogram) [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) ![Swagger](https://img.shields.io/badge/swagger-%2309807F.svg?style=for-the-badge&logo=swagger&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-%232D3E50.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23000000.svg?style=for-the-badge&logo=databricks&logoColor=white)
+## 🛠 Tech Stack
 
+### Backend & APIs
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
+### Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
+### Async & Background Jobs
+![Celery](https://img.shields.io/badge/Celery-48B685?style=for-the-badge&logo=celery&logoColor=white)
 
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-316192?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2D3E50?style=for-the-badge&logo=githubactions&logoColor=white)
 
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-<!--![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)-->
-<!--<a href="https://leetcode.com/u/almuvvahhida/">![Leetcode Stats](https://leetcard.jacoblin.cool/mexmonjonovuz?theme=dark)</a>-->
+---
+
+## 🧠 LeetCode Practice
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/goldendevs?theme=dark&font=Noto%20Sans)](https://leetcode.com/goldendevs)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=goldendevuz&theme=gruvbox&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=goldendevuz&theme=gruvbox&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldendevuz&layout=compact&langs_count=6&theme=gruvbox&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=goldendevuz&theme=nord&margin-w=6" />
+</p>
+
+---
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?center=true&vCenter=true&lines=Thanks+for+visiting!;Have+a+great+day+🚀" />
+</h3>
