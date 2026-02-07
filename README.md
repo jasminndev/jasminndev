@@ -3,12 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=Hi+👋🏻,+I'm+Abdulmajid+Yunusov;Python+Backend+Developer;Building+APIs,+Bots,+and+Scalable+Systems" />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=Hi+👋🏻,+I'm+Abdulmajid+Yunusov;Python+Backend+Developer;Building+APIs,+Bots,+and+Scalable+Systems"
+    alt="Typing SVG"
+  />
 </p>
-
----
 
 ## 👨‍💻 About Me
 
