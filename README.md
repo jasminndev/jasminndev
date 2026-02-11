@@ -15,7 +15,7 @@
 
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://dilmuradovnas.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasmina-ochildiyeva) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/itsjasmin)  
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://dilmuradovnas.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasmina-ochildiyeva) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/jasmindev)  
 <!--[![Gmail](https://img.shields.io/badge/ochildiyevajasmina@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:ochildiyevajasmina@gmail.com) -->
 <p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsjasminn&label=Profile%20views&color=0e75b6&style=flat" alt="itsjasminn" /> </p>
